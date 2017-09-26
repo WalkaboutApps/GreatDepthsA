@@ -1,0 +1,5 @@
+./Connecticut[[:space:]]and[[:space:]]New[[:space:]]York[[:space:]]Coast.zip filter=lfs diff=lfs merge=lfs -text
+./Far-east[[:space:]]Texas[[:space:]]and[[:space:]]Louisiana[[:space:]]Coast.zip filter=lfs diff=lfs merge=lfs -text
+./Hawaii[[:space:]]to[[:space:]]the[[:space:]]Midway[[:space:]]Islands.zip filter=lfs diff=lfs merge=lfs -text
+./Lake[[:space:]]Michigan.zip filter=lfs diff=lfs merge=lfs -text
+./Maine,[[:space:]]New[[:space:]]Hampshire[[:space:]]and[[:space:]]Northern[[:space:]]Mass..zip filter=lfs diff=lfs merge=lfs -text
